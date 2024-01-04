@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @deezy21
-- 👀 I’m interested in android dev & web dev
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Deepanjan
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ...
 
 <!---

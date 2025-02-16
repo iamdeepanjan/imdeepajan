@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/deepanjan-datta](https://www.linkedin.com/in/deepanjan-datta-68843323b/)
-- Twitter: [twitter.com/yourusername](https://twitter.com/yourusername)
+- Twitter: [twitter.com/imDdatta](https://twitter.com/imDdatta)
 - Personal Blog: [iamdeepanjan.github.io](https://iamdeepanjan.github.io/basic_portfolio_project/)
 
 ## 🌟 Projects
